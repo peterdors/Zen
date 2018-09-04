@@ -34,9 +34,7 @@ Image processing is a CPU intensive process, and there are chances you will see 
 
 ## Author
 
-* **Peter Dorsaneo** - *University of Central Florida* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Peter Dorsaneo** - *University of Central Florida* 
 
 ## License
 
